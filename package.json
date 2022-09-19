@@ -1,0 +1,23 @@
+{
+  "name": "zhoudaxa",
+  "version": "1.0.0",
+  "description": "zhoudaxa static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoudaxa/resource.git"
+  },
+  "keywords": [
+    "static",
+    "file"
+  ],
+  "author": "zhoudaxa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhoudaxa/resource/issues"
+  },
+  "homepage": "https://github.com/zhoudaxa/resource#readme"
+}
