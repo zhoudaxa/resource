@@ -1,6 +1,6 @@
 {
   "name": "zhoudaxa",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "zhoudaxa static file",
   "main": "index.js",
   "scripts": {
